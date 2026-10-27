@@ -1,0 +1,23 @@
+{
+  "name": "parabank-playwright-typescript-tests",
+  "version": "1.0.0",
+  "description": "Web test automation project for ParaBank using Playwright with TypeScript.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felipekanegae/parabank-playwright-typescript-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Felipekanegae/parabank-playwright-typescript-tests/issues"
+  },
+  "homepage": "https://github.com/Felipekanegae/parabank-playwright-typescript-tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  }
+}
